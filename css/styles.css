@@ -927,6 +927,7 @@ img {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  gap: 16px;
 }
 
 .footer-form-text {
@@ -1046,6 +1047,7 @@ img {
   .footer-container {
     flex-wrap: nowrap;
     margin: 0 auto;
+    gap: 0;
   }
 
   .footer-block {
