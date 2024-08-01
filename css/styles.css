@@ -1009,6 +1009,7 @@ img {
     align-items: baseline;
     gap: 72px 24px;
     margin-left: 108px;
+    padding: 0;
   }
 
   .footer-logo {
@@ -1048,6 +1049,7 @@ img {
     flex-wrap: nowrap;
     margin: 0 auto;
     gap: 0;
+    padding: 0 15px;
   }
 
   .footer-block {
