@@ -1008,8 +1008,7 @@ img {
     flex-wrap: wrap;
     align-items: baseline;
     gap: 72px 24px;
-    margin-left: 108px;
-    padding: 0;
+    padding-left: 92px;
   }
 
   .footer-logo {
